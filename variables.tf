@@ -1,0 +1,3 @@
+variable "slack_token" {
+  
+}
